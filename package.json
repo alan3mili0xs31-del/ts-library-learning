@@ -1,0 +1,29 @@
+{
+  "name": "library-learning",
+  "version": "1.0.0",
+  "description": "Repo to save small programs trying out some libraries for web development with TypeScript",
+  "homepage": "https://github.com/alan3mili0xs31-del/ts-library-learning#readme",
+  "bugs": {
+    "url": "https://github.com/alan3mili0xs31-del/ts-library-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan3mili0xs31-del/ts-library-learning.git"
+  },
+  "license": "MIT",
+  "author": "Alan Olaya Toscano",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.5.0",
+    "typescript": "^5.9.3"
+  }
+}
